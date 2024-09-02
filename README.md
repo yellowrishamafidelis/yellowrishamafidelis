@@ -11,8 +11,8 @@ A Data Analyst specializing in Excel and Power BI focuses on interpreting and an
 * 🧠  I'm learning Pandas
 
 <a href="https://www.github.com/yellowrishamafidelis" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yellowrishamafidelis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/YRishamafidelis" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/YRishamafidelis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/yellowrishamafidelis?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a><a href="https://www.x.com/YRishamafidelis" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/YRishamafidelis?logo=twitter&style=for-the-badge&color=facc15&labelColor=0f172a"
 /></a>
 
 ### Skills
@@ -31,4 +31,10 @@ src="https://img.shields.io/twitter/follow/YRishamafidelis?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yellowrishamafidelis"><img src="https://github-readme-stats.vercel.app/api?username=yellowrishamafidelis&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yellowrishamafidelis's GitHub stats" /></a>
+<a href="http://www.github.com/yellowrishamafidelis"><img src="https://github-readme-stats.vercel.app/api?username=yellowrishamafidelis&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="yellowrishamafidelis's GitHub stats" /></a>
+
+<a href="http://www.github.com/yellowrishamafidelis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowrishamafidelis&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/yellowrishamafidelis"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yellowrishamafidelis&bg_color=0f172a&color=ffffff&line=facc15&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/yellowrishamafidelis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowrishamafidelis&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
